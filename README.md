@@ -2,7 +2,6 @@
 
 **# I am Osasere Amagbamwan**
 **## I am a Data Analyst and a Data Entry Specialist##** 
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on 
