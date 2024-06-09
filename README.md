@@ -3,12 +3,12 @@
 **I am Osasere Amagbamwan**
 
 **I am a Data Analyst and a Data Entry Specialist** 
-- 🔭 I’m currently working on 
+
 - 🌱 I’m currently learning Data Analysis with DaHel Consultants and Techies.
 - 👯 I’m looking to collaborate on Organizations, Companies and Individuals.
 - 🤔 I look forward to giving Business Solutions to anything related to Data.
 - 💬 Ask me about anything Data and i am your solution.
 - 📫 How to reach me:[linkedin](https://www.linkedin.com/in/osasere-amagbamwan-3a5271272/)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns:She 
+- ⚡ Fun fact:I am very Dedicated in bringing solutions to Business Problems relating to Data.
 -->
