@@ -11,4 +11,3 @@
 - 📫 How to reach me:[linkedin](https://www.linkedin.com/in/osasere-amagbamwan-3a5271272/)
 - 😄 Pronouns: She 
 - ⚡ Fun fact: I am very Dedicated in bringing solutions to Business Problems relating to Data.
--->
