@@ -1,9 +1,8 @@
 ## Hi there 👋
 
 **# I am Osasere Amagbamwan**
-**## I am a Data Analyst and a Data Entry Specialist##** 
-Here are some ideas to get you started:
 
+**## I am a Data Analyst and a Data Entry Specialist##** 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning Data Analysis with DaHel Consultants and Techies.
 - 👯 I’m looking to collaborate on Organizations, Companies and Individuals.
