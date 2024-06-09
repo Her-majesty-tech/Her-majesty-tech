@@ -9,6 +9,6 @@
 - 🤔 I look forward to giving Business Solutions to anything related to Data.
 - 💬 Ask me about anything Data and i am your solution.
 - 📫 How to reach me:[linkedin](https://www.linkedin.com/in/osasere-amagbamwan-3a5271272/)
-- 😄 Pronouns:She 
-- ⚡ Fun fact:I am very Dedicated in bringing solutions to Business Problems relating to Data.
+- 😄 Pronouns: She 
+- ⚡ Fun fact: I am very Dedicated in bringing solutions to Business Problems relating to Data.
 -->
